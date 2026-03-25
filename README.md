@@ -1,1 +1,51 @@
-# Airbnb-Data-Analysis
+# 🏡 Airbnb Data Analysis
+
+This project focuses on exploratory data analysis (EDA) of Airbnb listings data using real-world datasets from Inside Airbnb.
+
+## 📊 Project Overview
+
+The goal of this project was to:
+- Load and explore a large real-world dataset
+- Perform data cleaning and preprocessing
+- Analyze numerical and categorical variables
+- Handle missing values and outliers
+- Discover relationships between variables
+- Visualize data distributions and correlations
+
+## 📁 Dataset
+
+The dataset was obtained from:
+http://insideairbnb.com/get-the-data.html
+
+It contains detailed information about Airbnb listings for a selected city.
+
+## ⚙️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## 🔍 Key Steps
+
+1. Data loading and inspection  
+2. Data type verification and correction  
+3. Missing values analysis  
+4. Statistical summary of variables  
+5. Data cleaning and preprocessing  
+6. Outlier detection and handling  
+7. Data visualization (histograms, scatter plots)  
+8. Correlation analysis  
+
+## 📈 Example Insights
+
+- Price distribution is highly skewed
+- Some variables contain significant missing data
+- Strong correlations exist between selected numerical features
+
+## ▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/airbnb-data-analysis.git
