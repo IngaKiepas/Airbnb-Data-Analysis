@@ -1,11 +1,11 @@
 # 🏡 Airbnb Data Analysis
 
-This project focuses on exploratory data analysis (EDA) of Airbnb listings data using real-world datasets from Inside Airbnb.
+This project focuses on data analysis of Airbnb listings data using datasets from Inside Airbnb.
 
 ## 📊 Project Overview
 
 The goal of this project was to:
-- Load and explore a large real-world dataset
+- Load and explore a large dataset
 - Perform data cleaning and preprocessing
 - Analyze numerical and categorical variables
 - Handle missing values and outliers
