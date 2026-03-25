@@ -17,7 +17,7 @@ The goal of this project was to:
 The dataset was obtained from:
 http://insideairbnb.com/get-the-data.html
 
-It contains detailed information about Airbnb listings for a selected city.
+It contains detailed information about Airbnb listings for a Nashville, Tennese, United States.
 
 ## ⚙️ Technologies Used
 
@@ -44,8 +44,7 @@ It contains detailed information about Airbnb listings for a selected city.
 - Some variables contain significant missing data
 - Strong correlations exist between selected numerical features
 
-## ▶️ How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/airbnb-data-analysis.git
+
+
+
